@@ -14,4 +14,4 @@ Venue Owner- Sell tickets, provide information about seating, amenities, parking
 Admin - Create and manage users
 
 Primary use cases:
-![Primary use case diagrams](diagrams/v0 Primary use case.drawio.svg)
+![Primary use case diagrams](diagrams\v0-Primary-use-case.drawio.svg)
